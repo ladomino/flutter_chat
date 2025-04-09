@@ -35,11 +35,10 @@ migrate_working_dir/
 .pub/
 /build/
 
-#
-firebase.json
-
 # Firebase config info for user
 lib/firebase_config.dart
+android/app/google-services.json
+firebase.json
 
 # Symbolication related
 app.*.symbols
