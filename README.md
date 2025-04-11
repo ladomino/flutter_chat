@@ -1,17 +1,12 @@
 # chat_app
 
-A Flutter Chat application project.
+A Flutter Chat application project that uses Firebase Auth, Storage and Database as well as Push Notifications.   This is for practicing how to use
+Google Firebase and how it works.
 
 ## Getting Started
 
-This project is an application allowing you to sign in and use a chat flutter application that uses push notifications.
+This project is an application allowing you to sign in or create an account, add an image for a user and use a chat flutter application using push notifications.   It uses Firebase.
 
-This is part of the Flutter Complete course.
+This is part of the Flutter Complete course but since it was outdated - these files have been updated for using latest flutter version and packages.
 
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project uses Firebase Auth, Firebase Storage and Firebase Database as examples of how to use.   
