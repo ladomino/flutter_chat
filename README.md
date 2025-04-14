@@ -14,10 +14,11 @@ This project uses Firebase Auth, Firebase Storage and Firebase Database as examp
 ## Screenshots
 
 ### Login Screen
-![Login Screen](assets/images/home.png)
+<img src="assets/images/home.png" width="300">
+
 
 ### Chat Screen
-![Chat Screen](assets/images/chatmessages.png)
+<img src="assets/images/chatmessages.png" width="300">
 
 ## Features
 
