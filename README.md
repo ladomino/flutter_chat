@@ -10,3 +10,26 @@ This project is an application allowing you to sign in or create an account, add
 This is part of the Flutter Complete course but since it was outdated - these files have been updated for using latest flutter version and packages.
 
 This project uses Firebase Auth, Firebase Storage and Firebase Database as examples of how to use.   
+
+## Screenshots
+
+### Login Screen
+![Login Screen](assets/images/home.png)
+
+### Chat Screen
+![Chat Screen](assets/images/chatmessages.png)
+
+## Features
+
+- User authentication (sign up, login)
+- Real-time chat
+- Image upload for user profiles
+- Push notifications
+
+## Technologies Used
+
+- Flutter
+- Firebase Authentication
+- Firebase Cloud Firestore
+- Firebase Storage 
+- Firebase Cloud Messaging (for push notifications)
